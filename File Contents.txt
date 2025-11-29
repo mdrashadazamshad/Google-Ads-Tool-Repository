@@ -1,0 +1,12 @@
+{
+  "name": "google-ads-tool",
+  "version": "1.0.0",
+  "description": "Automate Google Ads campaigns, tracking, and optimization.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
