@@ -1,0 +1,4 @@
+{
+  "apiKey": "YOUR_GOOGLE_ADS_API_KEY",
+  "defaultBudget": 1000
+}
